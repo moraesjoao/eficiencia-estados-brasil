@@ -1,0 +1,57 @@
+﻿"Tabela 4562 - Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade"
+"Variável - Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade (%)"
+"Cód.";"Brasil e Unidade da Federação";"Ano"
+"Cód.";"Brasil e Unidade da Federação";"2023"
+"1";"Brasil";"7,7"
+"11";"Rondônia";"3,1"
+"12";"Acre";"7,4"
+"13";"Amazonas";"10,0"
+"14";"Roraima";"6,6"
+"15";"Pará";"7,7"
+"16";"Amapá";"11,2"
+"17";"Tocantins";"5,8"
+"21";"Maranhão";"7,9"
+"22";"Piauí";"9,8"
+"23";"Ceará";"8,5"
+"24";"Rio Grande do Norte";"10,9"
+"25";"Paraíba";"9,5"
+"26";"Pernambuco";"13,5"
+"27";"Alagoas";"9,2"
+"28";"Sergipe";"11,5"
+"29";"Bahia";"13,2"
+"31";"Minas Gerais";"5,8"
+"32";"Espírito Santo";"5,7"
+"33";"Rio de Janeiro";"10,1"
+"35";"São Paulo";"7,5"
+"41";"Paraná";"4,8"
+"42";"Santa Catarina";"3,5"
+"43";"Rio Grande do Sul";"5,4"
+"50";"Mato Grosso do Sul";"4,7"
+"51";"Mato Grosso";"3,4"
+"52";"Goiás";"5,9"
+"53";"Distrito Federal";"10,2"
+"Fonte: IBGE. Pesquisa Nacional por Amostra de Domicílios Contínua, acumulado de primeiras visitas, exceto 2020-2022, acumulado de quintas visitas, devido à pandemia de Covid-19."
+
+"Notas"
+"A partir do 4º trimestre de 2015, em acordo com as recomendações da 19ª Conferência Internacional de Estatísticos do Trabalho - CIET, da OIT, pessoas em licença remunerada, independentemente do tempo de afastamento, passaram a ser classificadas como ""ocupadas"" e seus rendimentos do trabalho foram coletados normalmente. Anteriormente, as pessoas em licença remunerada na semana de referência da pesquisa e que estavam afastadas por período inferior a 4 meses eram classificadas como ""ocupadas"". Caso esse afastamento fosse igual ou superior a 4 meses, essas pessoas eram definidas como ""fora da força de trabalho"" e, portanto, não se investigava o rendimento do trabalho.
+Além disso, a partir do 4º trimestre de 2015, também passaram a ser classificadas como ""ocupadas"" as pessoas que ajudaram, sem receber remuneração, no trabalho remunerado de parente, adicionalmente àquelas que ajudaram no trabalho remunerado de outro morador do mesmo domicílio. Anteriormente, eram consideradas ""ocupadas"" apenas as pessoas que ajudaram, sem receber remuneração, no trabalho remunerado de outro morador do mesmo domicílio.
+A partir de abril de 2016, um aspecto do conceito de desocupação foi alterado de forma a se adequar inteiramente à 19ª Conferência Internacional de Estatísticos do Trabalho - CIET, realizada em outubro de 2013, sendo o questionário ajustado. Com a alteração desse aspecto, passam a ser considerados desocupados aqueles que conseguiram proposta de trabalho para começar após a semana de referência e que iriam começar a trabalhar em até 3 meses; os demais, isto é, aqueles que conseguiram proposta para começar a trabalhar após 3 meses da semana de referência, passam a ser contabilizados na população fora da força de trabalho. Anteriormente, eram considerados desocupados todos aqueles que conseguiram proposta de trabalho para começar após a semana de referência, independentemente do tempo em que iniciariam o trabalho que conseguiram.
+Devido aos impactos da pandemia de Covid-19 na coleta da PNAD Contínua, alguns indicadores e desagregações geográficas não estão disponíveis para os anos de 2020, 2021 e 2022.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"

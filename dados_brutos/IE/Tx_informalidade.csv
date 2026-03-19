@@ -1,0 +1,54 @@
+﻿"Tabela 4708 - Taxa de informalidade das pessoas de 14 anos ou mais de idade ocupadas na semana de referência"
+"Variável - Taxa de informalidade das pessoas de 14 anos ou mais de idade ocupadas na semana de referência (%)"
+"Cód.";"Brasil e Unidade da Federação";"Ano"
+"Cód.";"Brasil e Unidade da Federação";"2023"
+"1";"Brasil";"39,2"
+"11";"Rondônia";"46,3"
+"12";"Acre";"45,9"
+"13";"Amazonas";"54,0"
+"14";"Roraima";"45,3"
+"15";"Pará";"56,8"
+"16";"Amapá";"41,6"
+"17";"Tocantins";"44,9"
+"21";"Maranhão";"56,4"
+"22";"Piauí";"54,4"
+"23";"Ceará";"53,3"
+"24";"Rio Grande do Norte";"45,0"
+"25";"Paraíba";"49,7"
+"26";"Pernambuco";"50,3"
+"27";"Alagoas";"45,7"
+"28";"Sergipe";"51,9"
+"29";"Bahia";"54,2"
+"31";"Minas Gerais";"37,5"
+"32";"Espírito Santo";"39,1"
+"33";"Rio de Janeiro";"37,2"
+"35";"São Paulo";"31,5"
+"41";"Paraná";"32,1"
+"42";"Santa Catarina";"26,5"
+"43";"Rio Grande do Sul";"32,0"
+"50";"Mato Grosso do Sul";"34,5"
+"51";"Mato Grosso";"34,6"
+"52";"Goiás";"38,3"
+"53";"Distrito Federal";"29,7"
+"Fonte: IBGE. Pesquisa Nacional por Amostra de Domicílios Contínua, acumulado de primeiras visitas, exceto 2020-2022, acumulado de quintas visitas, devido à pandemia de Covid-19."
+
+"Notas"
+"A situação de informalidade se refere às pessoas ocupadas como “Empregado no setor privado, exclusive trabalhador doméstico - sem carteira de trabalho assinada”, “Trabalhador doméstico - sem carteira de trabalho assinada”, “Empregador sem CNPJ”, “Conta própria sem CNPJ” e “Trabalhador familiar auxiliar” no trabalho principal.
+A partir de 2025, as estimativas deste tema passaram a ser divulgadas com base na nova ponderação da pesquisa, conforme a Nota Técnica 02/2025. Consequentemente, a série histórica dos indicadores foi atualizada."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
