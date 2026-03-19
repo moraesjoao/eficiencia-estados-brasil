@@ -3,7 +3,8 @@
 
 ---
 
-# Eficiência Econômica dos Estados Brasileiros
+# Eficiência Econômica dos Estados Brasileiros  
+### Uma análise baseada em estrutura produtiva e desempenho relativo
 
 Este projeto analisa a eficiência econômica dos estados brasileiros, comparando o desempenho observado com o desempenho esperado dado sua estrutura produtiva (dados do IBGE/SIDRA).
 
