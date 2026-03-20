@@ -110,3 +110,19 @@ https://lookerstudio.google.com/reporting/a5d23c9a-0b09-42a4-a8e8-11b072e41e9e
 - Google Sheets  
 - Looker Studio  
 - SQL  
+
+## Fontes  
+
+- PIB_UF: https://sidra.ibge.gov.br/Tabela/5938  
+- Pop_total: https://sidra.ibge.gov.br/tabela/6415  
+- renda_pc: https://sidra.ibge.gov.br/tabela/7531  
+- Tx_desocupacao: https://sidra.ibge.gov.br/tabela/4562  
+- Pop_25_anos_mais_total: https://sidra.ibge.gov.br/tabela/7135  
+- Pop_25_anos_mais_superior: https://sidra.ibge.gov.br/tabela/7135  
+- VAB_administracao_publica: https://sidra.ibge.gov.br/Tabela/5938  
+- VAB_agropecuaria: https://sidra.ibge.gov.br/Tabela/5938  
+- VAB_industria: https://sidra.ibge.gov.br/Tabela/5938  
+- VAB_servicos_mercado: https://sidra.ibge.gov.br/Tabela/5938  
+- VAB_total: https://sidra.ibge.gov.br/Tabela/5938  
+- SQL: https://sidra.ibge.gov.br/Tabela/5938  
+- Tx_informalidade: https://sidra.ibge.gov.br/tabela/4708  
