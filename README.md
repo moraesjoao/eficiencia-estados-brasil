@@ -1,5 +1,5 @@
-## 📊 Dashboard interativo
-👉 https://lookerstudio.google.com/reporting/a5d23c9a-0b09-42a4-a8e8-11b072e41e9e
+## Dashboard interativo
+https://lookerstudio.google.com/reporting/a5d23c9a-0b09-42a4-a8e8-11b072e41e9e
 
 ---
 
@@ -12,7 +12,7 @@ A metodologia utiliza regressão linear para estimar o resultado esperado e calc
 
 ---
 
-## 🎯 Objetivo  
+## Objetivo  
 Identificar quais estados:
 
 - Entregam acima do esperado dado sua estrutura  
@@ -21,7 +21,7 @@ Identificar quais estados:
   
 ---
 
-## 🧠 Metodologia
+## Metodologia
 
 O modelo é baseado em dois índices principais:
 
@@ -44,7 +44,7 @@ Eficiência = IR observado - IR esperado
 
 ---
 
-## 🔄 Pipeline de dados
+## Pipeline de dados
 
 ```
 SIDRA (IBGE)  
@@ -71,7 +71,7 @@ Dashboard no Looker Studio
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 dados_brutos/  
@@ -88,15 +88,15 @@ sql/
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 Acesse o dashboard interativo:
 
-👉 https://lookerstudio.google.com/reporting/a5d23c9a-0b09-42a4-a8e8-11b072e41e9e
+https://lookerstudio.google.com/reporting/a5d23c9a-0b09-42a4-a8e8-11b072e41e9e
 
 ---
 
-## 💡 Principais insights
+## Principais insights
 
 - Estados do Norte apresentam alta eficiência relativa mesmo com baixa estrutura  
 - Estados do Sudeste possuem alta estrutura, mas nem sempre convertem isso em eficiência  
@@ -104,7 +104,7 @@ Acesse o dashboard interativo:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - MySQL  
 - Google Sheets  
